@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  TestProj04
 //
-//  Created by i9400519 on 2019/12/6.
-//  Copyright © 2019 i9400519. All rights reserved.
+//  Created by Jill on 2019/12/6.
+//  Copyright © 2019 Jill. All rights reserved.
 //
 
 import UIKit
